@@ -16,7 +16,6 @@
 - [Progress](#progress)
 - [Applications](#applications)
 - [Project Setup](#project-setup)
-- [Usage](#usage)
 - [Team Members](#team-members)
 
 </details>
