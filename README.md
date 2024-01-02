@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-   <strong>MyPharmacy</strong> - Website for medicines, generic drugs, and pharmacy stores near you.<br>
+   <strong>MyPharmacy</strong> - A Healthcare Ecommerce Website that also offers information on medicines, generic drugs, pharmacy stores near you.<br>
 </div>
 <hr>
 
@@ -37,8 +37,7 @@ The important feature highlights of our website include:
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/roze-ferns/MyPharmacyWebsite)
-- [Demo Video](https://drive.google.com/drive/folders/1xAsDljRDkTxvy6-qhgdFoZiXGrDMAZns)
-- [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1HGaJgkpIL28itoL5Hv8_UPfvJquq1Das)
+- [Demo Video and Screenshots](https://drive.google.com/drive/folders/1GFpm3JSU9ichYgSbbLmca-9lDkF0K8MM?usp=sharing)
 <!-- - [Hosted Website Link]()
 - [App APK Link]()
 - [Hosted Backend Link]() -->
@@ -142,3 +141,4 @@ http://localhost:5000/
 ![Screenshot (40)](https://user-images.githubusercontent.com/103879986/216403476-80493933-d512-4c5a-95e3-056db52a0f97.png)
 ![Screenshot (37)](https://user-images.githubusercontent.com/103879986/216403487-18fa589a-01a4-4730-affd-c49052f61258.png)
 ![Screenshot (34)](https://user-images.githubusercontent.com/103879986/216403901-69559d28-41ff-456b-a6aa-dfa6d0af2e01.png)
+
