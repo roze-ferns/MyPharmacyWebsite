@@ -136,9 +136,9 @@ http://localhost:5000/
 
 ## 📱Screenshots
 
-![Screenshot (29)](https://user-images.githubusercontent.com/103879986/216403068-2b465239-f196-47ad-9270-fbf50968eb4c.png)
-![Screenshot (32)](https://user-images.githubusercontent.com/103879986/216403456-6af9879f-b7ee-4303-9577-a63185b77939.png)
-![Screenshot (49)](https://user-images.githubusercontent.com/103879986/216407739-6670fe14-a17c-473c-9afd-9bacce1356e4.png)
+![Screenshot (29)](https://github.com/roze-ferns/MyPharmacyWebsite/blob/main/images/Screenshot%20(507).png)
+![Screenshot (32)](https://github.com/roze-ferns/MyPharmacyWebsite/blob/main/images/Screenshot%20(508).png)
+![Screenshot (49)](https://github.com/roze-ferns/MyPharmacyWebsite/blob/main/images/Screenshot%20(509).png)
 ![Screenshot (36)](https://user-images.githubusercontent.com/103879986/216403469-af91c02e-6fa4-47de-a120-16851746e3a2.png)
 ![Screenshot (40)](https://user-images.githubusercontent.com/103879986/216403476-80493933-d512-4c5a-95e3-056db52a0f97.png)
 ![Screenshot (37)](https://user-images.githubusercontent.com/103879986/216403487-18fa589a-01a4-4730-affd-c49052f61258.png)
