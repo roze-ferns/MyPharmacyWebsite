@@ -24,7 +24,7 @@
 
 ## 📝Description
 
-MyPharmacy is a pharmacy website. It enables the user to search for a medicine by its name, search a medicine for a specific health condition. It also enables users to search for generic medicines by name and health condition which it is used to treat. Furthermore, our website also provides the details of the nearest medicine stores when seached using pincode or locality in Mumbai. All these features, especially the generic medicines, are encompassed at one single place in  our very own website for people's convinience. 
+MyPharmacy is a pharmacy website. It enables the user to search for a medicine by its name, search a medicine for a specific health condition. It also enables users to search for generic medicines by name and health condition which it is used to treat. Furthermore, our website also provides the details of the nearest medicine stores when seached using pincode or locality in Mumbai. All these features, especially the generic medicines, are encompassed at one single place in  our very own website for people's convinience. Users can also buy HealthCare products and look for nearby Hospitals and Clinics in a map.
 
 The important feature highlights of our website include:
 1. Searching a medcine by name
@@ -86,6 +86,8 @@ Fully implemented features in our project:
 - Also, our website offers suggestions for the best drug to cure a health condition which is a rare feature.
 - MyPharmacy offers suggestions on generic drugs to cure a health condition. This feature has not been seen to be implemented on any website so far.
 - This website can ne monetized. Pharmacies generate data with every prescription. This data contains valuable information: who is prescribing, which medications, who is paying for them, what quantities and days supply, and much more. It is pharma manufacturers are most interested in this information. There are other interested parties such as research firms, payers, and clinicians. The data that is helpful to companies isn’t patient-specific data. Instead, they are interested in market-level data. Market-level pharmacy data is the specific data related to the script, not the patient. This data can be freely bought and sold without worrying about violating any privacy rules.
+- Shop healthcare products online based on categories with filters based on price ranges and categories.
+- View nearby Clinics and Hospitals based on user's location.
 
 ## 🛠Project Setup
 
