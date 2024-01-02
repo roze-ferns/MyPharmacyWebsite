@@ -18,7 +18,6 @@
 - [Project Setup](#project-setup)
 - [Usage](#usage)
 - [Team Members](#team-members)
-- [Screenshots](#screenshots)
 
 </details>
 
@@ -133,14 +132,4 @@ http://localhost:5000/
 
 - [Rozeeta Fernandes] : rozeeta1107@gmail.com 
 - [Sharayu Anuse] : sharayu.anuse@gmail.com
-
-## 📱Screenshots
-
-![Screenshot (29)](https://github.com/roze-ferns/MyPharmacyWebsite/blob/main/images/Screenshot%20(507).png)
-![Screenshot (32)](https://github.com/roze-ferns/MyPharmacyWebsite/blob/main/images/Screenshot%20(508).png)
-![Screenshot (49)](https://github.com/roze-ferns/MyPharmacyWebsite/blob/main/images/Screenshot%20(509).png)
-![Screenshot (36)](https://user-images.githubusercontent.com/103879986/216403469-af91c02e-6fa4-47de-a120-16851746e3a2.png)
-![Screenshot (40)](https://user-images.githubusercontent.com/103879986/216403476-80493933-d512-4c5a-95e3-056db52a0f97.png)
-![Screenshot (37)](https://user-images.githubusercontent.com/103879986/216403487-18fa589a-01a4-4730-affd-c49052f61258.png)
-![Screenshot (34)](https://user-images.githubusercontent.com/103879986/216403901-69559d28-41ff-456b-a6aa-dfa6d0af2e01.png)
 
